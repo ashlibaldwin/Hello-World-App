@@ -2,6 +2,8 @@
 
 1. Make an app that displays the text "Hello World" on screen.
 
+<img src="Hello World App/Assets.xcassets/AppScreenshots.imageset/hello-world-app-1.png" width="250px" />
+
 
 2. Add a button to the same view that shows "Hello World" - when you press the button, it should show an alert that says "Hello Back!"
 
